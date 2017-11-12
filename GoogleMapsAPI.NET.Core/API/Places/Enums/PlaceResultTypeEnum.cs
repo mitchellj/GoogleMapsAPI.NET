@@ -454,7 +454,7 @@ namespace GoogleMapsAPI.NET.API.Places.Enums
         [EnumMember(Value = "subway_station")]
         SubwayStation,
         /// <summary>
-        /// Subway station
+        /// Supermarket
         /// </summary>
         [EnumMember(Value = "supermarket")]
         Supermarket,
